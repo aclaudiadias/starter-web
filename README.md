@@ -1,8 +1,10 @@
 # Starter Web Project
 
+This is a simpke webnsite projecy for showing how to use Git and Github together.
+
 ## Introdution
 
-Git repository and vcarious commands using web project.
+Git repository and various commands using web project.
 ## Purpose
 
 As stated above, yje main purpose is to provide simple examples for Git training demos.
