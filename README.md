@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simpke webnsite projecy for showing how to use Git and Github together.
+This is a simpke webnsite projecy for showing how to use Git and Github together. Adding more changes from myfeature branch too. 
 
 ## Introdution
 
